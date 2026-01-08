@@ -136,6 +136,3 @@ This is a comprehensive SQL analytics portfolio demonstrating core Customer Succ
 - activity_id (PK), customer_id (FK), activity_date, logins_count, feature_usage_score, support_tickets_opened, nps_score
 
 Mock data includes 1,000 customers with weekly activity records spanning 26 weeks, representing realistic SaaS usage patterns.
-
-
-**Note:** This project uses mock data for demonstration purposes. 
